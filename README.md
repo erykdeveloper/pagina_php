@@ -1,2 +1,2 @@
 # manuten-o-PHP
-Uma página em PHP para manutenção
+Uma página em PHP
